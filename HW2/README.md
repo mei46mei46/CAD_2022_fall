@@ -3,5 +3,5 @@ Given a gate-level netlist and a cell library, caculate the longest delay time a
 
 
 **How to compile and execute:**  
-    1. \ make  
-    2. \ ./311510182.o \<netlist file\> -p \<input pat\> -l testlib.lib  
+    1.  make  
+    2.  ./311510182.o \<netlist file\> -p \<input pat\> -l testlib.lib  
