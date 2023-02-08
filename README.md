@@ -5,7 +5,6 @@ HW1 : Quine-McCluskey Method
 
 HW2 : Timing Analyzer with False Path Detection
 
-HW3
+HW3 : Coverage Analysis
 
-HW4
-
+HW4 : Modeling Mixed-Signal System and Simulating with AMS
